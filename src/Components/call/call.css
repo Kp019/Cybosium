@@ -1,0 +1,25 @@
+.call-f{
+    background-color: black;
+    background-size: contain;
+    background-position: center;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.call-title{
+    display: flex;
+    justify-content: center;
+}
+
+.call-btns{
+    display: flex;
+    justify-content: center;
+}
+
+.call-btn{
+    font-size: 15px;
+    padding-left: 100px;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    padding-right: 100px;
+}

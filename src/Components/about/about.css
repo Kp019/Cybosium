@@ -1,0 +1,29 @@
+.about{
+    padding-left: 40px;
+    padding-top: 200px;
+
+}
+.a-title{
+    padding-left: 20px;
+}
+
+.a-content{
+    background: linear-gradient(100.35deg, rgba(33, 17, 223, 0.24) 0.5%, rgba(14, 149, 247, 0) 104.03%);
+    backdrop-filter: blur(55px);
+    
+
+    padding: 50px;
+}
+
+.cont{
+    font-size: 15px;
+}
+
+.tit{
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.a-cont{
+    padding: 20px;
+}
