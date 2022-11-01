@@ -5,6 +5,7 @@ import Events from "./Components/events/events";
 import Footer from "./Components/Footer/footer";
 import Home from "./Components/home/home";
 import Navbarc from "./Components/navbar/navbar";
+import Speakers from "./Components/speakers/Speakers";
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
       <About />
       <Events />
       <Call />
+
+      <Speakers />
       <Contact />
       <Footer />
     </div>

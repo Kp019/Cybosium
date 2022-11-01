@@ -1,0 +1,10 @@
+.speak-title{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+.box{
+    background-color: black;
+    width:100px;
+    height: 300px;
+}
